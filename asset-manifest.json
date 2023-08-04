@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sunrise/static/css/main.3ab6f607.css",
+    "main.js": "/sunrise/static/js/main.562b65b6.js",
+    "static/js/787.878a192d.chunk.js": "/sunrise/static/js/787.878a192d.chunk.js",
+    "static/media/petrol.jpg": "/sunrise/static/media/petrol.7982f42ad18a94e1334f.jpg",
+    "static/media/Rectangle 145.png": "/sunrise/static/media/Rectangle 145.38a6c841df259f197f30.png",
+    "static/media/imgae1.png": "/sunrise/static/media/imgae1.037433a2ab3b32162c2d.png",
+    "static/media/street.jpg": "/sunrise/static/media/street.58a46434873ed1318dbd.jpg",
+    "static/media/image 3.png": "/sunrise/static/media/image 3.bc9fca9a83d03e36f157.png",
+    "static/media/street2.jpg": "/sunrise/static/media/street2.705504ccc8b414b60a36.jpg",
+    "static/media/image 2.png": "/sunrise/static/media/image 2.4f0326e89d9043c53100.png",
+    "static/media/image 5.png": "/sunrise/static/media/image 5.7633a737b43044fbe648.png",
+    "index.html": "/sunrise/index.html",
+    "main.3ab6f607.css.map": "/sunrise/static/css/main.3ab6f607.css.map",
+    "main.562b65b6.js.map": "/sunrise/static/js/main.562b65b6.js.map",
+    "787.878a192d.chunk.js.map": "/sunrise/static/js/787.878a192d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab6f607.css",
+    "static/js/main.562b65b6.js"
+  ]
+}
