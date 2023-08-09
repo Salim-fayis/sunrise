@@ -1,0 +1,159 @@
+.main-div {
+    position: relative;
+}
+
+.home-img {
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(58deg, rgba(0, 0, 0, 0.86) 15.99%, rgba(8, 7, 13, 0.00) 49.89%);
+
+}
+
+.home-search {
+    width: 849px;
+    height: 48px;
+    border-radius: 6px;
+    border: 1px solid #E2E2E2;
+}
+
+.form-control {
+    width: 849px;
+    height: 28px;
+    background-color: none;
+    background: linear-gradient(58deg, rgba(0, 0, 0, 0.86) 15.99%, rgba(8, 7, 13, 0.00) 49.89%);
+    border-radius: 6px;
+    border: 1px solid #E2E2E2;
+}
+
+
+
+.form-control::placeholder {
+    font-family: Noto Serif Tamil;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    color: #E2E2E2;
+
+
+}
+
+
+.home-form {
+    width: 549px;
+    height: 28px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin-left: 500px;
+
+}
+
+.home-form-search {
+    position: absolute;
+    margin-left: 500px;
+}
+
+.home-h1 {
+    font-family: Noto Serif Tamil;
+    font-size: 36px;
+    width: 500px;
+    font-style: normal;
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: normal;
+    letter-spacing: 1.08px;
+    margin-left: -150px;
+    text-align: justify;
+    text-align-last: left;
+
+}
+
+.home-p {
+    font-family: Noto Serif Tamil;
+    display: flex;
+    width: 700px;
+    height: 111px;
+    font-size: 16px;
+    font-style: normal;
+    color: #E2E2E2;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.48px;
+    margin-left: -150px;
+    text-align: justify;
+    text-align-last: left;
+}
+
+.home-btn {
+    width: 267px;
+    height: 48px;
+    background: linear-gradient(58deg, rgba(0, 0, 0, 0.86) 15.99%, rgba(8, 7, 13, 0.00) 49.89%);
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #FCAF17;
+    border-radius: 6px;
+    border: 1px solid #FCAF17;
+    margin-left: -1100px;
+    margin-bottom: 100px;
+
+}
+
+.home-cards {
+    display: flex;
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+    position: absolute;
+    top: 30%;
+    margin-left: 800px;
+
+}
+
+.home-cards img {
+    width: 200px;
+    height: 300px;
+}
+
+.home-card1 {
+    padding: 10px;
+}
+
+.home-card-h1 {
+    font-family: Noto Serif Tamil;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.48px;
+    width: 182px;
+    color: #E2E2E2;
+    position: absolute;
+    top: 75%;
+    margin-left: 10px;
+
+}
+
+.home-card-label {
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #E2E2E2;
+    position: absolute;
+    top: 85%;
+    margin-left: 10px;
+}
+
+.home-card-svg{
+position: absolute;
+top: 95%;
+margin-left: 10px;
+}

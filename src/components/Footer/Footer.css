@@ -1,0 +1,157 @@
+.Footer{
+    background: var(--secondary-color-1, #7D8085);
+    margin-top: 250px;
+   
+   
+}
+
+.lets-talk1 {
+    display: flex;
+    width: 1100px;
+    height: 170px;
+    border-radius: 4px;
+    background: linear-gradient(135deg, #7D8085 0%, #393D46 53.86%);
+    box-shadow: 0px 15px 25px 15px rgba(0, 0, 0, 0.10);
+    margin-top: 150px;
+    margin-left: 205px;
+    position: absolute;
+  
+}
+
+.footer-label1{
+    color: var(--secondary-color-2, #E2E2E2);
+    font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+margin-top: 150px;
+margin-left: 100px;
+margin-bottom: 20px;
+}
+
+.footer-label-h3{
+    font-family: Noto Serif Tamil;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.72px;
+color: var(--secondary-color-2, #E2E2E2);
+}
+
+.footer-p1{
+    display: flex;
+width: 360px;
+height: 127px;
+flex-direction: column;
+justify-content: center;
+    font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+}
+
+.footer-side1{
+    display: flex;
+    
+}
+
+.footer-label2{
+    font-family: Noto Serif Tamil;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.54px;
+color: var(--primary-color, #393D46);
+margin-top: 300px;
+margin-left: 70px;
+}
+.footer-side2-label2{
+    color: var(--secondary-color-2, #E2E2E2);
+font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; 
+letter-spacing: 0.42px;
+list-style: none;
+margin-left: 70px;
+
+}
+
+.footer-cap{
+    width: 240px;
+}
+
+.footer-cap2{
+    width: 220px;
+}
+
+.footer-line1{
+    width: 1719px;
+height: 1px;
+background: #E2E2E2;
+}
+
+.side-down-label1{
+    font-family: Noto Serif Tamil;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.54px;
+color: var(--primary-color, #393D46);
+}
+
+.side-down-p{
+    width: 360px;
+height: 67px;
+font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+color: var(--secondary-color-2, #E2E2E2);
+}
+
+.side-down-footer{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.footer-side-down2{
+    display: flex;
+}
+
+.side-down-rights{
+    font-family: Noto Serif Tamil;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.54px;
+color: var(--secondary-color-2, #E2E2E2);
+}
+
+.side-down-4{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.side-down-rights-last{
+    
+    font-family: Noto Serif Tamil;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    color: var(--secondary-color-2, #E2E2E2);
+}
+

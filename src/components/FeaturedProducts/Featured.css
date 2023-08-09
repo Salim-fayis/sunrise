@@ -1,0 +1,192 @@
+.Featured {
+    width: 100%;
+    ;
+    background: var(--white, #FFF);
+}
+
+.featured-right {
+    display: flex;
+    margin-top: 100px;
+}
+
+.featured-heading {
+    width: 354px;
+    height: 56px;
+    margin-left: 80px;
+}
+
+.featured-h1 {
+
+    font-family: Noto Serif Tamil;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.08px;
+    color: var(--primary-color, #393D46);
+}
+
+.featured-p {
+    width: 702px;
+    height: 95px;
+    font-family: Noto Serif Tamil;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.48px;
+}
+
+.featured-lab {
+    color: var(--secondary-color-1, #7D8085);
+    font-family: Noto Serif Tamil;
+    font-size: 9.333px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    margin-top: 20px;
+}
+
+.featured-svg {
+    margin-top: 30px;
+    margin-left: -150px;
+}
+
+.featured-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.featured-item1 {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    width: 131px;
+    height: 70px;
+    border-radius: 2.667px;
+    border: 0.667px solid var(--secondary-color-1, #7D8085);
+    background: var(--primary-color, #393D46);
+}
+
+.featured-item-p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 35px;
+    color: var(--secondary-color-2, #E2E2E2);
+    font-family: Noto Serif Tamil;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.36px;
+}
+
+.featured-item2 {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    width: 131px;
+    height: 70px;
+    border-radius: 2.667px;
+    background: var(--white, #FFF);
+    border-radius: 2.667px;
+    border: 0.667px solid var(--primary-color, #393D46);
+}
+
+.featured-item-p2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 35px;
+    color: var(--primary-color, #393D46);
+    font-family: Noto Serif Tamil;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.36px;
+}
+
+.featured-cards {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.card1 {
+    width: 190px;
+    height: 320px;
+    margin: 10px;
+    margin-top: -5px;
+    background: var(--secondary-color-2, #E2E2E2);  
+}
+
+.featured-img {
+    margin-top: 20px;
+
+}
+
+.featured-title {
+    color: var(--secondary-color-1, #7D8085);
+    font-family: Noto Serif Tamil;
+    font-size: 9.333px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+.featured-text {
+    color: var(--secondary-color-1, #7D8085);
+    font-family: Noto Serif Tamil;
+    font-size: 9.333px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+.featured-price {
+    color: var(--primary-color, #393D46);
+    font-family: Noto Serif Tamil;
+    font-size: 13.333px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.4px;
+}
+
+.feature-new{
+    display: flex;
+    margin-left: 35px;
+    width: 42px;
+    height: 16px;
+    border-radius: 2.667px 0px 0px 0px;
+    background: var(--accent-color, #FCAF17);
+}
+
+.featured-new-label{
+    display: flex;
+    justify-content: center;
+    color: var(--primary-color, #393D46);
+    font-family: Noto Serif Tamil;
+    font-size: 9.358px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.281px; 
+ 
+    
+   
+}
+
+.featured-new-svg{
+    margin-bottom: 160px;
+    margin-left: 15px;
+}

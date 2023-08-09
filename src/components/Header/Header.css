@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil&display=swap');
+
+.navbar {
+    height: 2.5rem;
+    background-color: #7D8085;
+}
+
+.contact .call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.contact .call .phone-icon {
+    display: flex;
+    width: 1.5rem;
+    height: 1.5rem;
+    /* padding: 5px 5px 5px 6px; */
+    flex-shrink: 0;
+    margin-left: 95px;
+}
+
+
+.contact .call .phone-number {
+    display: flex;
+    width: 1.5rem;
+    height: 1.3rem;
+    flex-shrink: 0;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #E2E2E2;
+}
+
+.contact .call .email-icon {
+    margin-left: 160px;
+}
+
+.contact .call .email {
+    width: 227px;
+    height: 22px;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #E2E2E2;
+}
+
+.contact .call .cart {
+    margin-left: 550px;
+
+}
+
+.contact .call .cart .cart-label {
+    width: 76px;
+    height: 22px;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #E2E2E2;
+
+}
+
+.contact .call .cart .seprater {
+    width: 1px;
+    height: 24px;
+    color: #E2E2E2;
+}
+
+.contact .call .social-app {
+    margin-left: 10px;
+}
+
+.contact .call .social-app svg {
+    margin-left: 5px;
+}
+
+.navbar-main {
+    height: 4.5rem;
+    background-color: #393D46;
+}
+
+.navbar-main .logo {
+    width: 175px;
+    height: 48.504px;
+    margin-left: 95px;
+}
+
+.navbar-main .nav-li ul {
+    display: flex;
+}
+
+.navbar-main .nav-li li a {
+    text-decoration: none;
+    color: #E2E2E2;
+}
+
+.navbar-main .nav-li li {
+    list-style-type: none;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    margin: 12px;
+    margin-top: 35px;
+}
+
+.navbar-main .buttons {
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+}
+
+.navbar-main .buttons .button-1 {
+    width: 116px;
+    height: 48px;
+    border-radius: 6px;
+    background-color: #E2E2E2;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #393D46;
+    margin-right: 20px;
+}
+
+.navbar-main .buttons .button-2 {
+    width: 136px;
+    height: 48px;
+    border-radius: 6px;
+    font-family: Noto Serif Tamil;
+    border: 1px solid #fff;
+    background-color: #393D46;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    color: #E2E2E2;
+}

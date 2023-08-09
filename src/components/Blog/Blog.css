@@ -1,0 +1,104 @@
+.blog-heading {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.blog-h1 {
+    color: var(--primary-color, #393D46);
+    width: 500px;
+    height: 58px;
+    font-family: Noto Serif Tamil;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.08px;
+}
+
+.blog-para {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.blog-p {
+    width: 702px;
+    height: 99.385px;
+    font-family: Noto Serif Tamil;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.48px;
+    color: var(--secondary-color-1, #7D8085);
+
+}
+
+.blog-card1{
+    width: 415px;
+    height: 518px;
+    border-radius: 4px;
+background: var(--secondary-color-2, #E2E2E2);
+margin: 10px;
+}
+
+.blog-cards{
+display: flex;
+margin: 20px
+}
+
+.blog-card-screen{
+    width: 320px;
+    margin-left: 15px;
+height: 239px;
+border-radius: 4px;
+
+margin-top: 5px;
+background: var(--gradient, linear-gradient(135deg, #7D8085 0%, #393D46 41.69%));
+}
+
+.blog-card-p{
+    display: flex;
+width: 300px;
+color: var(--secondary-color-1, #7D8085);
+height: 127px;
+flex-direction: column;
+justify-content: center;
+    font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+margin-left: 25px
+}
+
+.blog-card-label{
+    font-family: Noto Serif Tamil;
+font-size: 18px;
+font-style: normal;
+color: var(--primary-color, #393D46);
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.54px;
+margin: 25px;
+}
+
+.blog-card-label2{
+    font-family: Noto Serif Tamil;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.42px;
+color: var(--secondary-color-1, #7D8085);
+margin-left: 25px;
+}
+
+.blog-card-svg{
+    margin-left: 25px;
+    margin-bottom: 25px
+    
+}
